@@ -1,3 +1,4 @@
+#include "ft_headerh"
 #include <unistd.h>
 
 int	is_positive_number(char *str)
