@@ -1,4 +1,4 @@
-#include "ft_header.c"
+#include "ft_header.h"
 #include <unistd.h>
 #include <stdlib.h>
 
